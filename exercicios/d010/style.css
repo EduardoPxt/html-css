@@ -32,7 +32,8 @@ header > h1{
 
 header > p{
     padding: 10px;
-    width: 450px;
+    width: 70%;
+    text-align: center;
     margin: auto;
     text-align: center;
 }
